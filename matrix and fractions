@@ -1,0 +1,37 @@
+\documentclass[11pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{amsmath} % Essential for math environments and more complex formulas
+\title{Document with Complex Mathematical Equations}
+\author{Your Name}
+\date{\today}
+\begin{document}
+\maketitle
+\section{Complex Mathematical Equations}
+This document demonstrates a series of complex mathematical equations, including integrals,
+matrices, and fractions.
+\subsection{Integral Example}
+An example of a complex integral:
+\begin{equation}
+\int_{-\infty}^{\infty} e^{-x^2} dx = \sqrt{\pi}
+\end{equation}
+\subsection{Matrix Example}
+An example of a matrix:
+\begin{equation}
+\mathbf{A} =
+\begin{pmatrix}
+a & b \\
+c & d
+\end{pmatrix}
+\end{equation}
+\subsection{Fraction and Square Root Example}
+An example of fractions and square roots:
+\begin{equation}
+x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}
+\end{equation}
+\subsection{Summation and Product Example}
+An example of a summation and a product:
+\begin{equation}
+\sum_{i=1}^{n} i = \frac{n(n+1)}{2}, \quad \prod_{i=1}^{n} i = n!
+\end{equation}
+\end{document}
