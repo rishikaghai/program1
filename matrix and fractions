@@ -3,7 +3,7 @@
 \usepackage[T1]{fontenc}
 \usepackage{amsmath} % Essential for math environments and more complex formulas
 \title{Document with Complex Mathematical Equations}
-\author{Your Name}
+\author{Rishika}
 \date{\today}
 \begin{document}
 \maketitle
